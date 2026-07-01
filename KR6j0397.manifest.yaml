@@ -1,0 +1,53 @@
+canonical_identifier: bkk:krp/KR6j0397/v1
+canonical_location: https://kanripo.org/bkk/KR6j0397/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 金剛頂經曼殊室利菩薩五字心陀羅尼品
+  identifiers:
+    alt_id:
+    - T20n1173
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T20/T20n1173.xml
+    old_id: T20n1173
+  edition:
+    short: bkk
+editions:
+- short: 宋
+  label: 宋
+  source_xml_id: wit1
+- short: 元
+  label: 元
+  source_xml_id: wit2
+- short: 明
+  label: 明
+  source_xml_id: wit3
+- short: 甲
+  label: 甲
+  source_xml_id: wit4
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0397_000.yaml, hash: 'sha256:142c558a3288e51c25a023a80a011b561f21a7f51b70dfc6609cc30efa6fd519'}
+  - {seq: 1, filename: KR6j0397_001.yaml, hash: 'sha256:d7092340d83889d28df37e1853c29df4b5831e5c20d6c7752bd54e2416772249'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6j0397_001.markers.yaml, hash: 'sha256:bfab0b9ac8efa787a9bb7395b56cdda33112bdf571a17c7bfd64743814113ef8'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0397_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 4022
+  label: '金剛頂經曼殊室利菩薩五字
+
+    心陀羅尼品'
+  type: juan
+  level: 1
+hash: sha256:ba8325e0f8529f3b3aee7b18ae709dacb59c39e7d6d9ad87a3b50eac0236d2a1
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

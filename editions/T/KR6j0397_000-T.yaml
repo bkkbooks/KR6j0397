@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0397/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 金剛頂經曼殊室利菩薩五字心陀羅尼品
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T20/T20n1173.xml
+    old_id: T20n1173
+hash: sha256:142c558a3288e51c25a023a80a011b561f21a7f51b70dfc6609cc30efa6fd519
