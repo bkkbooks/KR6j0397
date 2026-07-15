@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0397/v1
 canonical_location: https://kanripo.org/bkk/KR6j0397/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 金剛頂經曼殊室利菩薩五字心陀羅尼品
   identifiers:
@@ -31,10 +31,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0397_000.yaml, hash: 'sha256:142c558a3288e51c25a023a80a011b561f21a7f51b70dfc6609cc30efa6fd519'}
-  - {seq: 1, filename: KR6j0397_001.yaml, hash: 'sha256:b6db9d71b17bf9d6f6aaced2c13a81c5dd255ad02fe197dcdf258da53276dac9'}
+  - {seq: 1, filename: KR6j0397_001.yaml, hash: 'sha256:73ef14d0c9654502801c6dbe95602b152a768f61ccde9fc70c41a7b5028e478c'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6j0397_000.markers.yaml, hash: 'sha256:faca63c6aa126cc41677cfd972debc2accd9e41f149bec2836bc80e0dad1828c'}
-  - {seq: 1, role: markers, filename: assets/KR6j0397_001.markers.yaml, hash: 'sha256:7e5253c117b423c9e2534955054cc3a5512cfe4c5aa10edc187f7f6a4770d44d'}
+  - {seq: 1, role: markers, filename: assets/KR6j0397_001.markers.yaml, hash: 'sha256:dc92ce6c5ec9dec8b06786400b50616d5657f5e78f5fb8a34cebf6c4aa0c9849'}
 table_of_contents:
 - ref:
     seq: 1
@@ -48,4 +48,7 @@ table_of_contents:
     心陀羅尼品'
   type: juan
   level: 1
-hash: sha256:fdd79f9d949b66ceb0249046a55d712e2ec45d758899c78cb06018cd0477985e
+hash: sha256:ec9aebedb6bb215887d17152739cbd20106efe34fdf0276c56eaea931e5d9656
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
